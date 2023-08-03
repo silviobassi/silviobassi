@@ -29,6 +29,5 @@
 
 ## Arquiteturas que utilizo:
 
-- Monolítica;
 - Micro Serviços;
 - API(s) Restful.

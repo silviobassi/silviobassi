@@ -15,6 +15,8 @@
 ❖ Bacharelado em Engenharia de Software | Unicesumar | 2018 a 2023<br/>
 [Unicesumar - Verifique a autenticidade...](http://unicesumar.edu.br/documentos) e digite o CÓDIGO: `T9v4g15Ps3hL5SRETSdk`.
 
+❖ Pós-graduando em Arquitetura de Software | Infnet | 2024 a 2025<br/>
+
 ## PORTFÓLIO
 
 ### [GitHub - Minimizing Waste | Ver código fonte...](https://github.com/silviobassi/minimizing)

@@ -13,7 +13,7 @@
 ## FORMAÇÃO ACADÊMICA
 
 ❖ Bacharelado em Engenharia de Software | Unicesumar | 2018 a 2023<br/>
-[Unicesumar - Verifique a autenticidade...]([http://unicesumar.edu.br/documentos](https://www.unicesumar.edu.br/valida-diploma/)) 
+[Verifique a autenticidade...](https://www.unicesumar.edu.br/valida-diploma/) 
 Digite o CÓDIGO: `1196.1196.622429bfa7cc35cb3607490eed39a41e709b63df7831f66f083d0c45cce1fd1b`.
 
 ❖ Pós-graduando em Arquitetura de Software | Infnet | 2024 a 2025<br/>

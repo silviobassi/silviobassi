@@ -1,7 +1,7 @@
 # Hi! I'm Silvio Bassi 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-bassi/)
-[![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@silviobassi)
+[![Medium](https://img.shields.io/badge/Medium-242424?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@silviobassi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silviobassi2@gmail.com)
 
 <h2>👦 About me</h2>

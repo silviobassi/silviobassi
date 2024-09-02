@@ -27,7 +27,7 @@ Digite o CÓDIGO: `1196.1196.622429bfa7cc35cb3607490eed39a41e709b63df7831f66f083
 
 #### [GitHub - Instruções para executar o software...](https://github.com/silviobassi/minimizing-executables)
 
-## TOOLS
+## My tech skills
 
 <div style="display: flex; justify-content:space-between;">
     <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">

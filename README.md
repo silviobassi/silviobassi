@@ -1,6 +1,6 @@
 # Hi! I'm Silvio Bassi 🖐️
 
-### Apaixonado por tecnologia. Deus e família, meus fundamentos! ❤️
+## Passionate about software architecture and engineering. God and family, my foundations! ❤️
 
 ### Aprofundando em Arquitetura de Software! 📘
 

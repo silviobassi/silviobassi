@@ -55,7 +55,7 @@ Here are some of the programs and tech skills that I master 😎:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
+<h2>🔄 Projects in development 🚧</h2>
 
 
 

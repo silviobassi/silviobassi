@@ -30,6 +30,18 @@ Digite o CÓDIGO: `1196.1196.622429bfa7cc35cb3607490eed39a41e709b63df7831f66f083
 ### My Tech Skills
 Here are some of the programs and tech skills that I master 😎:
 
-![Google Play](https://img.shields.io/badge/-Google_Play-34A853?style=flat-square&logo=google-play)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![SonarCloud](https://img.shields.io/badge/-SonarCloud-F3702A?style=flat-square&logo=sonarcloud)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu)
+![Rider](https://img.shields.io/badge/-Rider-000000?style=flat-square&logo=rider)
+![Visual Studio Community](https://img.shields.io/badge/-Visual_Studio_Community-5C2D91?style=flat-square&logo=visual-studio)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+

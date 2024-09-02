@@ -1,4 +1,5 @@
 ### Hi! I'm Silvio Bassi 🖐️
+---
 
 ### Apaixonado por tecnologia. Deus e família, meus fundamentos! ❤️
 

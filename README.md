@@ -60,7 +60,3 @@ Digite o CÓDIGO: `1196.1196.622429bfa7cc35cb3607490eed39a41e709b63df7831f66f083
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
 </div></br>
-
-## SKILLS
-
-❖ Design Patterns, Clean Code, SOLID, DDD, Clean Architecture...

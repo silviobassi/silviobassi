@@ -1,12 +1,12 @@
 # Hi! I'm Silvio Bassi 🖐️
 
-## Passionate about software architecture and engineering. God and family, my foundations! ❤️
-
-### Aprofundando em Arquitetura de Software! 📘
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-bassi/)
 [![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@silviobassi)
 [![Medium](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silviobassi2@gmail.com)
+
+## Passionate about software architecture and engineering. God and family, my foundations! ❤️
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-bassi/)
 
 ![Silvio GitHub stats](https://github-readme-stats.vercel.app/api?username=silviobassi&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviobassi&hide_progress=false&theme=dracula&layout=compact)

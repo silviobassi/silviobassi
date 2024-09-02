@@ -31,6 +31,9 @@ Digite o CÓDIGO: `1196.1196.622429bfa7cc35cb3607490eed39a41e709b63df7831f66f083
 Here are some of the programs and tech skills that I master 😎:
 
 ![React](https://img.shields.io/badge/React-58c4dc?style=for-the-badge&logo=react&logoColor=white)
-![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+
 
 

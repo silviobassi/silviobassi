@@ -30,7 +30,7 @@ Enter the CODE:
 
 #### [GitHub - Instructions to run the software...](https://github.com/silviobassi/minimizing-executables)
 
-### My Tech Skills
+<h2>🛠️ My Tech Skills</h2>
 Here are some of the programs and tech skills that I master 😎:
 
 ![React](https://img.shields.io/badge/React-58c4dc?style=for-the-badge&logo=react&logoColor=white)

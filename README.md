@@ -4,6 +4,8 @@
 [![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@silviobassi)
 [![Medium](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silviobassi2@gmail.com)
 
+##👦 About me
+
 ## Passionate about software architecture and engineering. God and family, my foundations! ❤️
 
 ![Silvio GitHub stats](https://github-readme-stats.vercel.app/api?username=silviobassi&show_icons=true&theme=dracula)

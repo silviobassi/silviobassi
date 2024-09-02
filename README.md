@@ -32,8 +32,7 @@ Here are some of the programs and tech skills that I master 😎:
 
 ![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server)

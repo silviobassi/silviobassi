@@ -11,21 +11,21 @@
 ![Silvio GitHub stats](https://github-readme-stats.vercel.app/api?username=silviobassi&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviobassi&hide_progress=false&theme=dracula&layout=compact)
 
-## FORMAÇÃO ACADÊMICA
+<h2>🎓 EDUCATION</h2>
 
-❖ Bacharelado em Engenharia de Software | Unicesumar | 2018 a 2023<br/>
+❖ Bachelor's Degree in Software Engineering | Unicesumar | 2018 a 2023<br/>
 [Verifique a autenticidade...](https://www.unicesumar.edu.br/valida-diploma/) 
 Digite o CÓDIGO: `1196.1196.622429bfa7cc35cb3607490eed39a41e709b63df7831f66f083d0c45cce1fd1b`.
 
-❖ Pós-graduando em Arquitetura de Software | Infnet | 2024 a 2025<br/>
+❖ Postgraduate Student in Software Architecture | Infnet | 2024 a 2025<br/>
 
-## PORTFÓLIO
+<h2>📁 Portfolio</h2>
 
-### [GitHub - Minimizing Waste | Ver código fonte...](https://github.com/silviobassi/minimizing)
+### [GitHub - Minimizing Waste | View source code...](https://github.com/silviobassi/minimizing)
 
-❖ Software para gestão. Esse software tem a finalidade de minimizar o desperdício de tempo e recursos, na construção civil.
+❖ Management software. This software is designed to minimize the waste of time and resources in construction.
 
-#### [GitHub - Instruções para executar o software...](https://github.com/silviobassi/minimizing-executables)
+#### [GitHub - Instructions to run the software...](https://github.com/silviobassi/minimizing-executables)
 
 ### My Tech Skills
 Here are some of the programs and tech skills that I master 😎:

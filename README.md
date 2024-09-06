@@ -11,7 +11,7 @@
 ![Silvio GitHub stats](https://github-readme-stats.vercel.app/api?username=silviobassi&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviobassi&hide_progress=false&theme=dracula&layout=compact)
 
-<h2>🎓 EDUCATION</h2>
+<h2>🎓 Education</h2>
 
 <b>❖ Bachelor's Degree in Software Engineering | Unicesumar | 2018 a 2023</b>
 [Verify authenticity...](https://www.unicesumar.edu.br/valida-diploma/) 

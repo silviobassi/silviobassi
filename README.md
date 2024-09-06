@@ -13,14 +13,14 @@
 
 <h2>🎓 EDUCATION</h2>
 
-❖ Bachelor's Degree in Software Engineering | Unicesumar | 2018 a 2023
+<b>❖ Bachelor's Degree in Software Engineering | Unicesumar | 2018 a 2023</b>
 [Verify authenticity...](https://www.unicesumar.edu.br/valida-diploma/) 
 Enter the CODE: 
 ```bash 
 1196.1196.622429bfa7cc35cb3607490eed39a41e709b63df7831f66f083d0c45cce1fd1b
 ```
 
-❖ Postgraduate Student in Software Architecture | Infnet | 2024 a 2025
+<b>❖ Postgraduate Student in Software Architecture | Infnet | 2024 a 2025</b>
 
 <h2>📁 Portfolio</h2>
 

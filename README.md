@@ -20,7 +20,7 @@ Enter the CODE:
 1196.1196.622429bfa7cc35cb3607490eed39a41e709b63df7831f66f083d0c45cce1fd1b
 ```
 
-<p>❖ Postgraduate Student in Software Architecture | Infnet | 2024 a 2025</p><br>
+❖ Postgraduate Student in Software Architecture | Infnet | 2024 a 2025
 
 <h2>📁 Portfolio</h2>
 
@@ -31,7 +31,7 @@ Enter the CODE:
 #### [GitHub - Instructions to run the software...](https://github.com/silviobassi/minimizing-executables)
 
 <h2>🛠️ My Tech Skills</h2>
-Here are some of the programs and tech skills that I master 😎:</br>
+<p>Here are some of the programs and tech skills that I master 😎:</p></br>
 
 ![React](https://img.shields.io/badge/React-58c4dc?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)

@@ -65,8 +65,6 @@ Enter the CODE:
 - Integration with WhatsApp
 - Loyalty program management for generating vouchers, discount coupons, and offers
 - Support for different customer levels: Bronze, Silver, and Gold
-  
-For both projects, I am using Azure DevOps for project management and as a repository for the source code.
 
 
 

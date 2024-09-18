@@ -58,15 +58,6 @@ Enter the CODE:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <h2>🔄 Projects in development 🚧</h2>
-
-I am developing two mobile software applications:
-
-1. 🍲 Recipe Book Generation Application 📖:
-
-- Integration with ChatGPT
-- Google authentication
-- .NET Identity for user management
-- Integration with messaging services
   
 2. 💇‍♂️ Appointment Scheduling Application for Barbershops and Beauty Salons 📅:
 

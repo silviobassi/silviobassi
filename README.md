@@ -24,7 +24,7 @@ Enter the CODE:
 
 <h2>📁 Portfolio</h2>
 
-### [GitHub - Minimizing Waste | View source code...](https://github.com/silviobassi/minimizing)
+[DDD - Gestão de Serviços de Agendamento]([https://github.com/silviobassi/minimizing](https://docs.google.com/document/d/1fpxgVsLZjlPdFKpsPZrwLKxRr0S4y7oz9qrmJYi9hA4/edit?usp=sharing))
 
 ❖ Management software. This software is designed to minimize the waste of time and resources in construction.
 
@@ -57,14 +57,6 @@ Enter the CODE:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h2>🔄 Projects in development 🚧</h2>
-  
-2. 💇‍♂️ Appointment Scheduling Application for Barbershops and Beauty Salons 📅:
-
-- Integration with Google Calendar
-- Integration with WhatsApp
-- Loyalty program management for generating vouchers, discount coupons, and offers
-- Support for different customer levels: Bronze, Silver, and Gold
 
 
 

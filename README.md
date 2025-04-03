@@ -25,6 +25,7 @@ Enter the CODE:
 <h2>📁 Portfolio</h2>
 
 - [DDD - Gestão de Serviços de Agendamento](https://docs.google.com/document/d/1fpxgVsLZjlPdFKpsPZrwLKxRr0S4y7oz9qrmJYi9hA4/edit?usp=sharing)
+- [Arquitetura de Sistema com C4]([https://docs.google.com/document/d/1fpxgVsLZjlPdFKpsPZrwLKxRr0S4y7oz9qrmJYi9hA4/edit?usp=sharing](https://docs.google.com/document/d/1TG_jFFLsMEKmUg7D0e8uSvad2rqBUWFiYSvAoMI1h7w/edit?usp=sharing))
 
 ❖ Management software. This software is designed to minimize the waste of time and resources in construction.
 

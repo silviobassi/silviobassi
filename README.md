@@ -24,12 +24,20 @@ Enter the CODE:
 
 <h2>📁 Portfolio</h2>
 
-- [DDD - Gestão de Serviços de Agendamento](https://docs.google.com/document/d/1fpxgVsLZjlPdFKpsPZrwLKxRr0S4y7oz9qrmJYi9hA4/edit?usp=sharing)
-- [Arquitetura de Sistema com C4]([https://docs.google.com/document/d/1fpxgVsLZjlPdFKpsPZrwLKxRr0S4y7oz9qrmJYi9hA4/edit?usp=sharing](https://docs.google.com/document/d/1TG_jFFLsMEKmUg7D0e8uSvad2rqBUWFiYSvAoMI1h7w/edit?usp=sharing))
+❖ Developed Projects in the Postgraduate Program in Software Architecture
 
-❖ Management software. This software is designed to minimize the waste of time and resources in construction.
+- [DDD - DDD - Scheduling Services Management](https://docs.google.com/document/d/1fpxgVsLZjlPdFKpsPZrwLKxRr0S4y7oz9qrmJYi9hA4/edit?usp=sharing) | [Github](https://github.com/silviobassi/DDDAgenda)
+- [System Architecture with C4](https://docs.google.com/document/d/1fpxgVsLZjlPdFKpsPZrwLKxRr0S4y7oz9qrmJYi9hA4/edit?usp=sharing) | [Documents](https://github.com/silviobassi/PesquisaPublica.Documents) | [Processing Service](https://github.com/silviobassi/PesquisaPublica.ServicoProcessamento) | [Collection Service](https://github.com/silviobassi/PesquisaPublica.ServicoColeta)
+- [Enterprise Architecture (Architecture for Merging Two Companies](https://docs.google.com/document/d/10iIcQnBpZANZenC6ro99mDiNLLvfiFV5/edit?usp=sharing&ouid=117282110743261102636&rtpof=true&sd=true) | [Artifacts](https://drive.google.com/drive/folders/10iLoZ2y4wu4BQA_muzWvHPJ3xw9xrvpZ?usp=sharing)
+- [Software processes, Quality and Agility](https://docs.google.com/document/d/1NHUa1_FkIYCGuxf-XwwQ4eaq0f7ffRnWw2c97I_Rvrk/edit?usp=sharing)
+- [Software Architecture](https://docs.google.com/document/d/1vDKsMuWKCwwmpyTFm6NUp8Vi3aGxEwapOFWyMxtTlgw/edit?usp=sharing)
 
-#### [GitHub - Instructions to run the software...](https://github.com/silviobassi/minimizing-executables)
+❖ Developed Projects in the Undergraduate Program in Software Engineering 
+
+- [TCC I](https://docs.google.com/document/d/1-ETcPlj_F0W-dlH_ZNldW63Ho2dAcalq/edit?usp=sharing&ouid=117282110743261102636&rtpof=true&sd=true)
+- [TCC II](https://drive.google.com/file/d/1-IfVQlfU30TDLJT8gIDExHX41ZZ-tqUq/view?usp=sharing)
+- [Source Code](https://github.com/silviobassi/minimizing-waste)
+- [Executable](https://github.com/silviobassi/minimizing-executables)
 
 <h2>🛠️ My Tech Skills</h2>
 

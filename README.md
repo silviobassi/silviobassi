@@ -22,7 +22,7 @@ Enter the CODE:
 
 <b>❖ Postgraduate in SOFTWARE ARECHITECTURE | Infnet | 2024 to 2025</b>
 
-<b>❖ Postgraduate in CLOUD COMPUTING | Se | 2025 to 2026</b>
+<b>❖ Postgraduate in CLOUD COMPUTING | Senac | 2025 to 2026</b>
 
 <h2>📁 Portfolio</h2>
 

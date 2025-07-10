@@ -20,7 +20,7 @@ Enter the CODE:
 1196.1196.622429bfa7cc35cb3607490eed39a41e709b63df7831f66f083d0c45cce1fd1b
 ```
 
-<b>❖ Postgraduate in Software Architecture | Infnet | 2024 a 2025</b>
+<b>❖ Postgraduate in Software Architecture | Infnet | 2024 to 2025</b>
 
 <h2>📁 Portfolio</h2>
 
